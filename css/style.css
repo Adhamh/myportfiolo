@@ -1,0 +1,81 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+/* Carousel css */
+.carousel-inner {
+
+    border-radius: 25px;
+    background-color: rgba(0,0,0,0);
+    overflow: hidden;
+}
+
+.carousel-control {
+    border-radius: 25px;
+
+}
+.photos {
+	font-size: 35px;
+}
+
+.photo {
+	font-size: 17.5px;
+}
+
+/* Contact Page */
+
+.form-group {
+	padding: 15px;
+}
+
+/* header */
+
+.me {
+	color: whitesmoke;
+}
+
+
+
+/* images */
+
+#profiler {
+	padding: 10px;
+}
+/* photography */
+
+.jumbotron {
+    margin-bottom: 40px;
+    background-image: url(../img/photo5.JPG);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: repeat;
+    color: whitesmoke;
+    text-shadow: black 0.4em 0.4em 0.4em;
+	width: 100%;
+}
+
+
+/* media */
+.col-md-4 {
+	padding: 10px;
+	
+}
+
+.col-md-8 {
+	padding: 10px;
+}
+
+.col-md-12 {
+	padding: 20px;
+}
+
+.idk {
+	font-size: 15px;
+}
+
+
+/* design*/
+.col-md-6 {
+	padding: 20px;
+}
